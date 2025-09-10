@@ -9,7 +9,8 @@ Features
 	•	Visualizes CVaR vs portfolio weight allocation using Matplotlib.
 	•	Exports results in CSV format for reporting.
 
- Future Improvements / Extensions
+ Future Improvements
+ 
 	•	Extend to multi-asset portfolios beyond two stocks for more realistic diversification.
 	•	Incorporate other risk measures like Expected Shortfall, drawdown, or stress testing.
 	•	Include rolling window analysis to assess time-varying risk and optimal weights.
